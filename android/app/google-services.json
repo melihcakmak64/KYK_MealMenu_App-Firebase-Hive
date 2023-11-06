@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895218344676",
+    "project_id": "kyk-menu",
+    "storage_bucket": "kyk-menu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895218344676:android:ffafc46478bb20553702f1",
+        "android_client_info": {
+          "package_name": "com.example.kyk_menu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNavvb63-kklrUYnos5YMKl0JjK2bYq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
